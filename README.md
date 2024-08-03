@@ -9,23 +9,6 @@ This course is an introduction to modern web development with JavaScript. The ma
 
 Other topics include debugging applications, configuration, managing runtime environments and NoSQL databases.
 
-## Exercises done per round
-
-| Part      | Exercises   |
-| --------- | ----------- |
-| 0         | 6/6         |
-| 1         | 14/14       |
-| 2         | 20/20       |
-| 3         | 22/22       |
-| 4         | 22/22       |
-| 5         | 22/22       |
-| 6         | 21/21       |
-| 7         | 21/21       |
-| 8         | 26/26       |
-| 9         | 27/27       |
-| 10        | /27         |
-| **Total** | **201/228** |
-
 ## Course material
 
 ### Part 0: Fundamentals of Web apps
